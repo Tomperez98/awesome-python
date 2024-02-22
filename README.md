@@ -789,6 +789,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [PyPI](https://pypi.org/)
 * [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 * [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+* [pyrgo](https://github.com/Tomperez98/pyrgo) - Python project manager inspired in [Cargo](https://doc.rust-lang.org/cargo/).
 
 ## Package Repositories
 
